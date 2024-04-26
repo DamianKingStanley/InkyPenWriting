@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import capitalizeInitials from "../../utils/convertInitial";
 import convertDate from "../../utils/convertDate";
 import { useNavigate } from "react-router-dom";
 import { FaUserCircle, FaHeart, FaEye } from "react-icons/fa";
